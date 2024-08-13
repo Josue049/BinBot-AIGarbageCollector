@@ -18,7 +18,6 @@ Imagine a future where autonomous robots patrol our streets, parks, and offices,
 * **Expandability:** Designed to be scalable, the project has the potential to deploy robot networks in cities around the world, with applications in a variety of settings.
 * **Inclusive Design:** The project addresses a universal problem and is applicable in a variety of settings, from public parks to offices, ensuring broad benefits.
 ![This is an alt text.](https://i.ibb.co/YkYpxMB/1.jpg "This is a sample image.")
-![This is an alt text.](https://i.ibb.co/ZVnSjY1/4.jpg "This is a sample image.")
 ![This is an alt text.](https://i.ibb.co/ZSmznCv/pred-0.jpg "This is a sample image.")
 ![This is an alt text.](https://i.ibb.co/PTV5D6t/3.jpg "This is a sample image.")
 
