@@ -26,7 +26,7 @@ The AIs were trained on approximately 2,000 images collected manually and labele
 ![This is an alt text.](https://i.ibb.co/pw60jTn/Screenshot-2.png "This is a sample image.")
 
 ## Prototype and Future Improvements:
-Currently, the robot communicates with a central server via Wi-Fi using a cell phone camera, although ideally it should have its own camera. Future improvements could include installing more sensors for better recognition of the environment, more powerful motors, larger tires, and wireless connection alternatives such as Bluetooth.
+Currently, the robot communicates with a central server via Wi-Fi using a cell phone camera, although ideally it should have its own camera. Future improvements could include installing more sensors for better recognition of the environment, more powerful motors, larger tires, and wireless connection alternatives such as Bluetooth. The model for offices was trained with a larger dataset so it has better results, it is expected in the future to achieve better AI for parks
 ![This is an alt text.](https://i.ibb.co/6tVCxps/Screenshot-3.png "This is a sample image.")
 
 ## Implementation:
