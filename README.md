@@ -3,8 +3,6 @@
 ### Introduction:
 Every day, the accumulation of litter in our streets and public spaces is a global challenge. Despite awareness efforts, the sheer volume of waste requires innovative solutions. This project proposes a transformative response: the use of AI-powered autonomous robots for litter collection in urban environments and offices.
 
-![This is an alt text.](https://i.ibb.co/Krzx2ks/Sin-nombre.png "This is a sample image.")
-
 ### Project Vision:
 Imagine a future where autonomous robots patrol our streets, parks, and offices, equipped with advanced AI to recognize and collect solid waste such as bottles, disposable plastics, papers, and masks. These robots would operate independently, identifying and collecting trash before transporting it to designated collection centers.
 
